@@ -1,5 +1,6 @@
 const games = [
     { name: "Crazy Cattle 3d", image: "image/crazycattle.png", link: "/crazycattle3d.html"},
+    { name: "Speed Stars", image: "image/speedstars.png", link: "/speedstars.html"},
 ];
 
 /*createGameCard*/

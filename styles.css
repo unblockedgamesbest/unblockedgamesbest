@@ -148,7 +148,7 @@ main {
     width: 100%;
     padding-bottom: 705px; /* 4:3 Aspect Ratio */
     align-items: center;
-    left: 20%;
+    margin: auto;
     position: relative;
 }
 
