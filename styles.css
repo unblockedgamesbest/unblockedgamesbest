@@ -146,7 +146,7 @@ main {
 
 .game-wrapper {
     width: 100%;
-    padding-bottom: 705px; /* 4:3 Aspect Ratio */
+    padding-bottom: 605px; /* 4:3 Aspect Ratio */
     align-items: center;
     position: relative;
 }
