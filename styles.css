@@ -148,7 +148,6 @@ main {
     width: 100%;
     padding-bottom: 705px; /* 4:3 Aspect Ratio */
     align-items: center;
-    margin: auto;
     position: relative;
 }
 
@@ -171,7 +170,6 @@ main {
     display: inline-flex;
     align-items: center;
     position: absolute;
-    left: 935px;
     padding: 10px 10px;
     background-color: #4a90e2;
     color: white;
