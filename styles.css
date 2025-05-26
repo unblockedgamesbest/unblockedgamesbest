@@ -1,6 +1,6 @@
 :root {
     --primary-color: #0f7ad4;
-    --secondary-color: #ff6b6b;
+    --secondary-color: #0f7ad4;
     --background-color: #f0f2f5;
     --text-color: #333;
     --box-shadow: 0 2px 4px rgba(0,0,0,0.1);
@@ -21,7 +21,7 @@
     margin-right: 10px;
     color: #4a90e2;
     font-size: 28px;
-    transition: transform 0.5s ease;
+    transition: all 0.5s ease;
 }
 
 .logo span {
@@ -30,11 +30,11 @@
 
 .logo:hover {
     opacity: 0.8;
+    transition: opacity 0.5 ease;
 }
 
 .logo:hover i {
     transform: rotate(360deg);
-    transition: transform 0.5s ease;
 }
 
 body {
@@ -123,12 +123,13 @@ main {
     text-decoration: none;
     font-weight: bold;
     border-radius: 6px;
-    transition: background-color 0.3s ease;
+    transition: all 0.3s ease;
     margin-top: auto;
 }
 
 .play-button:hover {
-    background-color: #ff4757;
+    background-color: #0e599b;
+    transform:scale(1.05);
 }
 
 .content-wrapper {
