@@ -5,6 +5,7 @@ const games = [
     { name: "Drift Hunters", image: "image/drifthunters.png", link: "/drifthunters.html"},
     { name: "Italian Brainrot Clicker", image: "image/italianbrainrot.png", link: "/italianbrainrot.html"},
     { name: "OvO", image: "image/ovo.png", link: "/ovo.html"},
+    { name: "Ragdoll Hit", image: "image/ragdollhit.png", link: "/ragdollhit.html"},
 ];
 
 /*createGameCard*/
